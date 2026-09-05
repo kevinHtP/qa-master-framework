@@ -1,8 +1,0 @@
-
-    🚨 *Bug Baru Ditemukan!* 🚨
-    waktu= 2026-09-05 22:32:59
-    bug_id = select-name
-    keparahan= critical
-    detail= Ensure select element has an accessible name
-    Tindakan : Mohon tim Frontend segera mengecek kode HTML terkait.
-    
