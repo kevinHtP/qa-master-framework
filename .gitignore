@@ -1,4 +1,4 @@
 __pychance__/
 .pytest_chance/
 master_toko.db
-bug_report.txt
+bug_report_*.json
